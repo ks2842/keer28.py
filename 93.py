@@ -1,2 +1,2 @@
-k=int(input())
-print(k+273)
+keer=int(input())
+print(keer+273)
